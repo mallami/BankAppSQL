@@ -1,0 +1,23 @@
+create sequence "customer_seq" increment 1 start 101;
+select setval('"bankappsql"."customer_seq"', 100);
+
+create sequence "account_seq" increment 1 start 2201;
+select setval('"bankappsql"."account_seq"', 2200);
+
+create table customer(
+	customer_id int primary key default nextval('customer_seq'::regclass) not null,
+	username varchar(15) not null unique,
+	passwd varchar(15) not null,
+	customer_name varchar(30) not null,
+	phone varchar(20) not null
+);
+
+create table account(
+	account_id int primary key default nextval('account_seq'::regclass) not null,
+	balance numeric(12,2),
+	account_type varchar(10) not null,
+	second_owner_name varchar(30),
+	account_status varchar(10) not null,
+	customer_id int references customer(customer_id) on delete cascade on update no action
+);
+

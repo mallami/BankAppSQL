@@ -1,0 +1,130 @@
+2020-12-22 21:59:31 INFO  BankService:775 - LOG: Account changed its status successfully
+2020-12-22 22:12:06 INFO  BankService:313 -  LOG: New customer account has been created successfully
+2020-12-22 22:12:43 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:12:50 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:18:14 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:18:42 INFO  BankService:436 -  LOG: Customer Password Changed
+2020-12-22 22:19:11 INFO  BankService:460 -  LOG: Deposit was done and saved into Database successfully
+2020-12-22 22:19:25 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:19:44 INFO  BankService:460 -  LOG: Deposit was done and saved into Database successfully
+2020-12-22 22:19:54 INFO  BankService:494 -  LOG: Withdraw was done and saved into Database successfully
+2020-12-22 22:20:11 INFO  BankService:547 -  LOG: Transfer was done and saved to Database successfully
+2020-12-22 22:20:17 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:20:31 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:27:37 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:27:44 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:28:06 INFO  BankService:436 -  LOG: Customer Password Changed
+2020-12-22 22:28:20 WARN  BankService:342 -  LOG: Wrong credentials for customer login
+2020-12-22 22:28:39 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:28:52 INFO  BankService:436 -  LOG: Customer Password Changed
+2020-12-22 22:29:07 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:29:33 INFO  BankService:460 -  LOG: Deposit was done and saved into Database successfully
+2020-12-22 22:30:00 INFO  BankService:494 -  LOG: Withdraw was done and saved into Database successfully
+2020-12-22 22:31:04 INFO  BankService:547 -  LOG: Transfer was done and saved to Database successfully
+2020-12-22 22:31:10 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:39:46 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:40:29 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 22:40:47 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 22:43:27 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:43:33 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:45:59 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 22:47:23 INFO  BankService:781 -  LOG: Account changed its status successfully
+2020-12-22 22:47:54 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:48:01 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:49:36 INFO  BankService:547 -  LOG: Transfer was done and saved to Database successfully
+2020-12-22 22:49:41 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:50:00 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:50:09 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:50:18 INFO  BankService:460 -  LOG: Deposit was done and saved into Database successfully
+2020-12-22 22:50:22 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:50:33 INFO  BankService:494 -  LOG: Withdraw was done and saved into Database successfully
+2020-12-22 22:50:38 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:50:52 INFO  BankService:547 -  LOG: Transfer was done and saved to Database successfully
+2020-12-22 22:50:58 INFO  BankService:396 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-22 22:51:41 INFO  BankService:436 -  LOG: Customer Password Changed
+2020-12-22 22:51:58 WARN  BankService:342 -  LOG: Wrong credentials for customer login
+2020-12-22 22:52:07 INFO  BankService:339 -  LOG: Successful customer login into Database
+2020-12-22 22:52:26 INFO  BankService:436 -  LOG: Customer Password Changed
+2020-12-22 22:56:09 INFO  BankService:547 -  LOG: Transfer was done and saved to Database successfully
+2020-12-22 22:56:16 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 22:58:55 INFO  BankService:718 -  LOG: Account was updated successfully
+2020-12-22 22:59:16 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 23:00:24 INFO  BankService:718 -  LOG: Account was updated successfully
+2020-12-22 23:00:27 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 23:00:48 INFO  BankService:630 -  LOG: Account was deleted successfully
+2020-12-22 23:01:09 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 23:12:18 INFO  BankService:313 -  LOG: New customer account has been created successfully
+2020-12-22 23:16:02 INFO  BankService:313 -  LOG: New customer account has been created successfully
+2020-12-22 23:17:57 INFO  BankService:313 -  LOG: New customer account has been created successfully
+2020-12-22 23:31:18 INFO  BankService:324 -  LOG: New customer account has been created successfully
+2020-12-22 23:33:30 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 23:33:52 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-22 23:34:18 INFO  BankService:792 -  LOG: Account changed its status successfully
+2020-12-23 00:01:36 INFO  BankService:340 -  LOG: New customer account has been created successfully
+2020-12-23 00:02:17 INFO  BankService:366 -  LOG: Successful customer login into Database
+2020-12-23 00:02:21 INFO  BankService:423 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-23 00:02:58 INFO  BankService:366 -  LOG: Successful customer login into Database
+2020-12-23 00:03:03 INFO  BankService:423 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-23 00:03:14 INFO  BankService:487 -  LOG: Deposit was done and saved into Database successfully
+2020-12-23 00:05:39 INFO  BankService:366 -  LOG: Successful customer login into Database
+2020-12-23 00:05:44 INFO  BankService:423 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-23 00:06:05 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:06:25 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:08:29 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:08:46 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:23:22 INFO  BankService:810 -  LOG: Account changed its status successfully
+2020-12-23 00:24:35 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:39:36 INFO  BankService:596 -  LOG: Transfer was done and saved into Database successfully
+2020-12-23 00:39:42 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:41:43 INFO  BankService:340 -  LOG: New customer account has been created successfully
+2020-12-23 00:42:22 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:44:28 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:45:42 INFO  BankService:765 -  LOG: Account was updated successfully
+2020-12-23 00:50:50 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:51:36 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:52:18 INFO  BankService:596 -  LOG: Transfer was done and saved into Database successfully
+2020-12-23 00:52:21 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:52:53 INFO  BankService:596 -  LOG: Transfer was done and saved into Database successfully
+2020-12-23 00:52:55 INFO  BankService:223 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 00:58:53 INFO  BankService:227 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:29:24 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:30:47 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:34:49 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:36:13 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:37:28 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:38:05 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:38:53 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:42:38 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:44:28 INFO  BankService:359 -  LOG: New customer account has been created successfully
+2020-12-23 09:44:49 INFO  BankService:385 -  LOG: Successful customer login into Database
+2020-12-23 09:46:57 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:47:34 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:52:05 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 09:59:32 INFO  BankService:385 -  LOG: Successful customer login into Database
+2020-12-23 10:00:56 INFO  BankService:491 -  LOG: Customer Password Changed
+2020-12-23 10:01:07 INFO  BankService:491 -  LOG: Customer Password Changed
+2020-12-23 10:04:38 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 10:05:59 INFO  BankService:856 -  LOG: Account changed its status successfully
+2020-12-23 10:06:48 INFO  BankService:523 -  LOG: Deposit was done and saved into Database successfully
+2020-12-23 10:07:19 INFO  BankService:563 -  LOG: Withdraw was done and saved into Database successfully
+2020-12-23 10:08:19 INFO  BankService:624 -  LOG: Transfer was done and saved into Database successfully
+2020-12-23 10:08:29 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 10:09:27 INFO  BankService:385 -  LOG: Successful customer login into Database
+2020-12-23 10:51:26 WARN  BankService:388 -  LOG: Wrong credentials for customer login
+2020-12-23 10:51:39 INFO  BankService:385 -  LOG: Successful customer login into Database
+2020-12-23 16:07:06 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 20:07:19 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 20:07:59 INFO  BankService:523 -  LOG: Deposit was done and saved into Database successfully
+2020-12-23 20:08:08 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-23 20:08:36 INFO  BankService:385 -  LOG: Successful customer login into Database
+2020-12-23 20:08:53 INFO  BankService:442 -  LOG: Customer Balance was accessed from Databse successfully
+2020-12-23 20:13:36 INFO  BankService:242 -  LOG: All Accounts were listed from Database successfully
+2020-12-25 20:56:06 INFO  BankService:229 -  LOG: All Accounts were listed from Database successfully
+2021-03-05 16:53:37 INFO  BankService:372 -  LOG: Successful customer login into Database
+2021-03-05 16:53:44 INFO  BankService:429 -  LOG: Customer Balance was accessed from Databse successfully
+2021-03-05 16:54:40 INFO  BankService:510 -  LOG: Deposit was done and saved into Database successfully
+2021-03-05 16:54:47 INFO  BankService:429 -  LOG: Customer Balance was accessed from Databse successfully
+2021-03-05 16:55:01 INFO  BankService:550 -  LOG: Withdraw was done and saved into Database successfully
+2021-03-05 16:55:07 INFO  BankService:429 -  LOG: Customer Balance was accessed from Databse successfully
+2021-03-05 16:55:48 INFO  BankService:229 -  LOG: All Accounts were listed from Database successfully
+2021-03-05 16:57:32 INFO  BankService:780 -  LOG: Account was updated successfully
